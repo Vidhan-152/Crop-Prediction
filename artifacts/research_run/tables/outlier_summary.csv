@@ -1,0 +1,5 @@
+method,count,percentage
+zscore,171,7.7727272727272725
+iqr,432,19.636363636363637
+mahalanobis,8,0.36363636363636365
+intersection_all_three,7,0.3181818181818182

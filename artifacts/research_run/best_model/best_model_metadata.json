@@ -1,0 +1,14 @@
+{
+  "best_model": "SoftVoting",
+  "best_imputation_method": "knn",
+  "metrics": {
+    "accuracy": 0.9931818181818182,
+    "balanced_accuracy": 0.993181818181818,
+    "precision_macro": 0.9937032664305392,
+    "recall_macro": 0.993181818181818,
+    "f1_macro": 0.9931690047222781,
+    "top3_accuracy": 1.0,
+    "log_loss": 0.04323303013595783,
+    "roc_auc_macro_ovr": 1.0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "mask_fraction": 0.08,
+  "repeats": 5,
+  "friedman_rmse_statistic": 19.040000000000006,
+  "friedman_rmse_pvalue": 0.0007718488689673323,
+  "friedman_f1_statistic": 14.240000000000009,
+  "friedman_f1_pvalue": 0.00656718601912776,
+  "best_method": "knn"
+}

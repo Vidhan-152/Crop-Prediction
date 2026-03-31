@@ -1,0 +1,2 @@
+algorithm,silhouette_score,adjusted_rand_index
+kmeans,0.3488303575005098,0.6918261146299522

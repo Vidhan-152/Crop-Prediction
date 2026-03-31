@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.streamlit/secrets.toml
+
+# Local/editor files
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Keep generated research outputs, but ignore very large or unnecessary runtime files
+artifacts/research_run/best_model/best_pipeline.joblib
+artifacts/research_run/dashboard/*.html
+artifacts/research_run/interpretability/lime_explanation.html
